@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    border: 3px solid lightblue;
+    
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: monospace;
+}
+nav {
+    width: 25%;
+    background-color: yellow; 
+    
+}
+ul {
+    text-align: center;
+}
+li {
+    color: yellow;
+    width: 25%;
+    margin: 10px;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: white;
+}
+section {
+    text-align: center;
+}
+article {
+    color: lightblue;
+    text-align: center;
+}
+article h3{
+    color: white;
+    background-color: rgb(rgb(0, 225, 255), rgb(19, 178, 206), rgba(34, 192, 219), 0.9)
+}
